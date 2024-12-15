@@ -30,5 +30,3 @@ Mi nombre es Dariel, Soy un desarrollador junior con muchas ganas de aprender y 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75590&center=true&width=440&lines=¡Hola!+Soy+desarrollador+junior;Me+encanta+aprender+nuevas+tecnologías;Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing Animation" />
 </p>
 
-![Código animado](https://carbon.now.sh/embed.png?code=%2F%2F+Tu+c%C3%B3digo+aqu%C3%AD)
-
