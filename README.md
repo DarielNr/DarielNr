@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75590&center=true&width=440&lines=Soy+un+desarrollador+junior;Apasionado+por+el+aprendizaje+constante;Explorando+el+mundo+de+la+tecnología" alt="Typing Animation" />
 </p>
 
+Mi nombre es Dariel, soy un desarrollador junior con muchas ganas de aprender y mejorar mis habilidades en programación. Me interesa el desarrollo web y disfruto resolviendo problemas con código.
+
 ---
 
 ## 🛠️ Tecnologías que estoy aprendiendo:
